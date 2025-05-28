@@ -1,7 +1,7 @@
 <img src="./images/2.png" alt="RocketFlip Logo" width="250" height="250">
 # RocketFlip
 
-## Instructions ###(Windows)
+## Instructions (Windows)
 
 1. **Clone the repositry** to your local machine or open it in Github Codespaces
 2. **Navigate to the project directory** in your terminal
