@@ -4,7 +4,7 @@
 
 ## Instructions (Windows)
 
-1. **Clone the repositry** to your local machine or open it in Github Codespaces
+1. **Clone the repositry** to your local machine Note: Does not work in Github Codespaces
 2. **Navigate to the project directory** in your terminal
 3. **Create & activate a virtaul enviroment**
 ```bash
