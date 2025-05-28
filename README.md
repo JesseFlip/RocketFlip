@@ -9,6 +9,6 @@
 4. **Install Pygame** using pip or uv pip
 5. **Run the game** via terminal
 
-'''bash
+```bash
 python app.py
-'''
+```
